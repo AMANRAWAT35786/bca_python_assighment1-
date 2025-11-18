@@ -1,0 +1,10 @@
+STUDENT PROFILE
+--------------------------------------------------
+Name: aman
+Roll No: 25010006
+Course: bca
+University: kr manglam
+City: gurugram
+Age: 18
+Hobby: gaming
+--------------------------------------------------
