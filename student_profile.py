@@ -9,9 +9,9 @@
 # Date: 17-11-2025
 # --------------------------------------------------------
 
-# -----------------------------
+
 # Task 1: Welcome Section
-# -----------------------------
+
 
 print("\n" + "="*60)
 print("🎓 Welcome to Student Profile System")
@@ -23,9 +23,9 @@ print("- Operators")
 print("- String functions")
 print("- Formatting\n")
 
-# -----------------------------
+
 # Task 2: Input & Variables
-# -----------------------------
+
 
 full_name = input("Enter your full name: ")
 roll_no = input("Enter your roll number: ")
@@ -37,9 +37,9 @@ hobby = input("Enter your hobby: ")
 
 print("\n✔ Student data recorded successfully!\n")
 
-# -----------------------------
+
 # Task 3: Operators Demonstration
-# -----------------------------
+
 
 print("="*60)
 print("🔢 Python Operators Demonstration")
@@ -87,9 +87,9 @@ sample = full_name.lower()
 print(f"'a' in your name → {'a' in sample}")
 print(f"'z' not in your name → {'z' not in sample}")
 
-# -----------------------------
+
 # Task 4: Strings & Formatting
-# -----------------------------
+
 
 print("\n" + "="*60)
 print("🔤 String Operations & Formatting")
@@ -108,9 +108,9 @@ print("Hello\nWorld")
 print("Hello\tWorld")
 print("Python says \"Welcome!\"")
 
-# -----------------------------
+
 # Task 5: Final Profile Output
-# -----------------------------
+
 
 print("\n" + "-"*60)
 print("          STUDENT PROFILE SYSTEM")
@@ -128,10 +128,7 @@ print("-"*60)
 print("Welcome to Python Programming! ✔")
 print("-"*60)
 
-# -----------------------------
 # Task 6 (Bonus): Save Profile
-# -----------------------------
-
 save = input("\nDo you want to save your profile? (yes/no): ").lower()
 
 if save == "yes":
@@ -150,6 +147,7 @@ if save == "yes":
     print("\n✔ Profile saved to student_profile.txt")
 else:
     print("\nProfile not saved.")
+
 
 
 
